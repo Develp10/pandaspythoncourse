@@ -1,8 +1,11 @@
-▪ https://t.me/data_analysis_ml -подписывайтесь на наш телеграм анализ данных на Python, где мы Data Science обучаем на практике. 
+Полный гайд по Pandas 
 
-▪ https://t.me/addlist/2Ls-snqEeytkMDgy - маст-хэв папка для всех, кто интересуется машинным обучением.
+[https://www.youtube.com/watch?v=sF5AcBsOewU ](https://www.youtube.com/watch?v=sF5AcBsOewU) - урок1  введение в pandas 
+▪ [https://t.me/data_analysis_ml](https://t.me/data_analysis_ml) -подписывайтесь на наш телеграм анализ данных на Python, где мы Data Science обучаем на практике. 
 
-▪ вот ссылка на документ "Изучаем Pandas", где есть абсолютно всё про Pandas — https://files.catbox.moe/l74i8x.pdf
+▪ [https://t.me/addlist/2Ls-snqEeytkMDgy](https://t.me/addlist/2Ls-snqEeytkMDgy) - маст-хэв папка для всех, кто интересуется машинным обучением.
+
+▪ вот ссылка на документ "Изучаем Pandas", где есть абсолютно всё про Pandas — [https://files.catbox.moe/l74i8x.pdf](https://files.catbox.moe/l74i8x.pdf)
 
 
 Pandas - это библиотека в языке программирования Python, которая предоставляет гибкие и удобные инструменты для анализа и обработки данных. Библиотека базируется на структурах данных, называемых "DataFrame", которые представляют собой таблицы с метками строк и столбцов.
